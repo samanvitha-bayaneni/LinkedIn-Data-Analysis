@@ -1,4 +1,4 @@
-# LinkedIn-Data-Analysis
+# LinkedIn Data Analysis
 <img width= 1000 height=250 src="https://media.licdn.com/dms/image/C5116AQFUWdkbFRIdQA/profile-displaybackgroundimage-shrink_200_800/0/1516755414585?e=2147483647&v=beta&t=Zx8Q267VHV7OIoEBr9pjIBAZslFcYbt-mZOKCijtGlI">
 
 - **LinkedIn for Data Science Professionals**: This paper explores how LinkedIn serves as a vital platform for Data Science professionals, offering opportunities for skill development and career advancement.
